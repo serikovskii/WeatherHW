@@ -1,0 +1,9 @@
+C:\Users\МукушевА.CORP\source\repos\WheatherHW\WheatherHW.Models\bin\Debug\WheatherHW.Models.dll
+C:\Users\МукушевА.CORP\source\repos\WheatherHW\WheatherHW.Models\bin\Debug\WheatherHW.Models.pdb
+C:\Users\МукушевА.CORP\source\repos\WheatherHW\WheatherHW.Models\bin\Debug\Newtonsoft.Json.dll
+C:\Users\МукушевА.CORP\source\repos\WheatherHW\WheatherHW.Models\bin\Debug\Newtonsoft.Json.xml
+C:\Users\МукушевА.CORP\source\repos\WheatherHW\WheatherHW.Models\obj\Debug\WheatherHW.Models.csprojAssemblyReference.cache
+C:\Users\МукушевА.CORP\source\repos\WheatherHW\WheatherHW.Models\obj\Debug\WheatherHW.Models.csproj.CoreCompileInputs.cache
+C:\Users\МукушевА.CORP\source\repos\WheatherHW\WheatherHW.Models\obj\Debug\WheatherHW.Models.csproj.CopyComplete
+C:\Users\МукушевА.CORP\source\repos\WheatherHW\WheatherHW.Models\obj\Debug\WheatherHW.Models.dll
+C:\Users\МукушевА.CORP\source\repos\WheatherHW\WheatherHW.Models\obj\Debug\WheatherHW.Models.pdb
