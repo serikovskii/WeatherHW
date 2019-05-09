@@ -1,0 +1,11 @@
+C:\Users\azat\Documents\GitHub\WeatherHW\WheatherHW\WheatherHW.Serialize\bin\Debug\WheatherHW.Serialize.dll
+C:\Users\azat\Documents\GitHub\WeatherHW\WheatherHW\WheatherHW.Serialize\bin\Debug\WheatherHW.Serialize.pdb
+C:\Users\azat\Documents\GitHub\WeatherHW\WheatherHW\WheatherHW.Serialize\bin\Debug\Newtonsoft.Json.dll
+C:\Users\azat\Documents\GitHub\WeatherHW\WheatherHW\WheatherHW.Serialize\bin\Debug\WheatherHW.Models.dll
+C:\Users\azat\Documents\GitHub\WeatherHW\WheatherHW\WheatherHW.Serialize\bin\Debug\WheatherHW.Models.pdb
+C:\Users\azat\Documents\GitHub\WeatherHW\WheatherHW\WheatherHW.Serialize\bin\Debug\Newtonsoft.Json.xml
+C:\Users\azat\Documents\GitHub\WeatherHW\WheatherHW\WheatherHW.Serialize\obj\Debug\WheatherHW.DTO.csprojAssemblyReference.cache
+C:\Users\azat\Documents\GitHub\WeatherHW\WheatherHW\WheatherHW.Serialize\obj\Debug\WheatherHW.DTO.csproj.CoreCompileInputs.cache
+C:\Users\azat\Documents\GitHub\WeatherHW\WheatherHW\WheatherHW.Serialize\obj\Debug\WheatherHW.DTO.csproj.CopyComplete
+C:\Users\azat\Documents\GitHub\WeatherHW\WheatherHW\WheatherHW.Serialize\obj\Debug\WheatherHW.Serialize.dll
+C:\Users\azat\Documents\GitHub\WeatherHW\WheatherHW\WheatherHW.Serialize\obj\Debug\WheatherHW.Serialize.pdb

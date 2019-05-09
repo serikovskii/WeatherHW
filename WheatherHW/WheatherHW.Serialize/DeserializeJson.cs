@@ -12,13 +12,19 @@ namespace WheatherHW.Serialize
 {
     public class DeserializeJson
     {
-        public Data Start()
+        public RootObject Start(string city)
         {
+            if (city.IndexOf(" ") >= 0)
+            {
+                city.Replace(" ", "+");
+            }
             WebClient client = new WebClient();
-            string json = client.DownloadString("http://api.worldweatheronline.com/premium/v1/weather.ashx?key=9b39d1d764e449cf89c45448193004&q=Astana&num_of_days=7&format=json");
-            var result = JsonConvert.DeserializeObject<Data>(json);
+            string json = client.DownloadString("http://api.worldweatheronline.com/premium/v1/weather.ashx?key=9b39d1d764e449cf89c45448193004&q="+ city +"&num_of_days=7&format=json");
+            var result = JsonConvert.DeserializeObject<RootObject>(json);
 
             return result;
         }
+
+        
     }
 }
