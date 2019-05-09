@@ -1,15 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Windows;
-using System.Windows.Controls;
 using System.Windows.Input;
 using System.Windows.Media.Imaging;
-using WheatherHW.Models;
 using WheatherHW.Serialize;
 
 namespace WheatherHW
 {
-
     public partial class MainWindow : Window
     {
         public MainWindow()
@@ -51,23 +47,20 @@ namespace WheatherHW
                         case 5: groupDay5.Header = groupDay7.Header; day5.Text = day7.Text; imageDay5.Source = imageDay7.Source; break;
                         case 6: groupDay6.Header = groupDay7.Header; day6.Text = day7.Text; imageDay6.Source = imageDay7.Source; break;
                     }
-
                 }
             }
         }
 
         public BitmapImage ImageInit(string path)
         {
-
             BitmapImage bitmap = new BitmapImage();
             bitmap.BeginInit();
             bitmap.UriSource = new Uri(path);
             bitmap.EndInit();
-
             return bitmap;
         }
 
-        public void Button_Click(object sender, KeyEventArgs e)
+        public void SearchCity(object sender, KeyEventArgs e)
         {
             if (e.Key == Key.Enter)
             {

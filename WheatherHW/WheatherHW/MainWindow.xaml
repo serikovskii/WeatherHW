@@ -27,7 +27,7 @@
                 <ColumnDefinition></ColumnDefinition>
                 <ColumnDefinition></ColumnDefinition>
             </Grid.ColumnDefinitions>
-        <materialDesign:Card materialDesign:ShadowAssist.ShadowDepth="Depth1" KeyDown="Button_Click" Grid.Column="0" Grid.Row="0" Height="60" Padding="10" Margin="10" Grid.ColumnSpan="2">
+        <materialDesign:Card materialDesign:ShadowAssist.ShadowDepth="Depth1" KeyDown="SearchCity" Grid.Column="0" Grid.Row="0" Height="60" Padding="10" Margin="10" Grid.ColumnSpan="2">
                 <StackPanel>
                 <TextBox Name="searchCityNameBox"
                     materialDesign:HintAssist.Hint="Введите город"
